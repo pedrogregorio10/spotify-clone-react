@@ -25,7 +25,7 @@ function Footer(){
     <div className="text-xs">0:25</div>
 
     <div className="w-full max-w-96 h-1 bg-white rounded overflow-hidden">
-        <div className="h-full bg-green-500" style={{ width:'35%' }}></div>
+        <div className="h-full bg-green-500" style={{ width:'57%' }}></div>
     </div>
 
     <div className="text-xs">2:45</div>
